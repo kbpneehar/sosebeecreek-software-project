@@ -8,7 +8,7 @@ Sosebee creek Software Project(SSP) encapsulates different dimensions of our com
 
 Sections of the application:
 
-1. User directory.
+1. User directory. Maintains the list of all users of your community.
 
 2. Map of Sosebee creek, with real-time listing of the occupants. Also real-time community event mapping and highlighting to help community residents plan logistics like parking, traffic issues during festivities like thanks giving, ganesh utsav etc.(Idea by Sruti).
 
